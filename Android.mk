@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-ifneq ($(filter hct6753_65u_m0,$(TARGET_DEVICE)),)
+ifneq ($(filter power,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := $(call my-dir)
 

@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := \  $(LOCAL_DIR)/omni_hct6753_65u_m0.mk
+PRODUCT_MAKEFILES := \  $(LOCAL_DIR)/omni_power.mk

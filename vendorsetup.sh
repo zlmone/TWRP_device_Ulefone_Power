@@ -1,1 +1,1 @@
-add_lunch_combo omni_hct6753_65u_m0-eng
+add_lunch_combo omni_power-eng
